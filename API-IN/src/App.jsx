@@ -14,7 +14,7 @@ const App =() => {
   return (
     <>
         <div>
-        <h1 className=''>BOOK API</h1>
+        <h1 className='text-black'>BOOK API</h1>
         <Button onClick={apicall}></Button>
         </div>
     </>
