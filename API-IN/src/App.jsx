@@ -10,11 +10,7 @@ function App() {
     <>
      
       
-      <div className="card">
-        
-       
-      </div>
-     
+      
        
      
     </>
