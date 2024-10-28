@@ -11,7 +11,7 @@ function App() {
      
       
       <div className="card">
-        <button onClick={() => }>
+        <button>
          
         </button>
         <p>
