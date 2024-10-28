@@ -4,7 +4,7 @@ import './App.css'
 const App =() => {
   async function apicall() {
     const response = await fetch(
-      'https://potterapi-fedeperin.vercel.app/en/spells'
+      // 'https://potterapi-fedeperin.vercel.app/en/spells'
     );
 
   const data = await response.json();
