@@ -13,7 +13,7 @@ function App() {
       <div className="card">
         
         <p>
-          Edit <code></code> and save to test HMR
+          Edit  and save to test HMR
         </p>
       </div>
       <p className="read-the-docs">
