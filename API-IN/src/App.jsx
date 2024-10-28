@@ -2,6 +2,7 @@ import { useState } from 'react'
 import './App.css'
 
 const App =() => {
+  async
     const response = await fetch();
   
 
