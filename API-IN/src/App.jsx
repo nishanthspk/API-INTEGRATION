@@ -5,7 +5,8 @@ const App =() => {
   async function apicall() {
     const response = await fetch();
   }
-  const data = await response
+  const data = await response.json();
+  
 
   return (
     <>
