@@ -12,7 +12,7 @@ function App() {
        
           
        
-        <a href="https://react.dev" target="_blank">
+      
          
         
       </div>
