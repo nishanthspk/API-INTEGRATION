@@ -5,6 +5,7 @@ const App =() => {
   async function apicall() {
     const response = await fetch();
   }
+  const data
 
   return (
     <>
