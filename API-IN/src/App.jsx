@@ -14,7 +14,7 @@ function App() {
         
        
       </div>
-      <p className="read-the-docs">
+     
        
       </p>
     </>
