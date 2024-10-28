@@ -2,7 +2,7 @@ import { useState } from 'react'
 import './App.css'
 
 const App =() => {
-  async function apicall
+  async function apicall()
     const response = await fetch();
   
 
