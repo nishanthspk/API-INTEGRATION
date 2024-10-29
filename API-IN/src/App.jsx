@@ -11,6 +11,8 @@ const App =() => {
   console.log(data);
 }
 
+function App() {
+  const [count, setCount] = useState(0)
   return (
     <>
       <div>
