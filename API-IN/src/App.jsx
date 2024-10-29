@@ -10,8 +10,9 @@ const App =() => {
   const data = await response.json();
   console.log(data);
 }
+}
 
-function App() {
+function DApp() {
   const [count, setCount] = useState(0)
   return (
     <>
@@ -22,5 +23,6 @@ function App() {
     </>
   )
 }
+
 
 export default App
