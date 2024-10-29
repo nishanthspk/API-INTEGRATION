@@ -22,7 +22,7 @@ function App() {
     <>
       <div>
         <h1 >BOOK API</h1>
-        <Button ></Button>
+        <Button onClick={App}></Button>
       </div> 
     </>
   )
