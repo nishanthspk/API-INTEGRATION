@@ -10,7 +10,7 @@ function App() {
   const App =() => {
     async function apicall() {
       const response = await fetch(
-        //  'https://potterapi-fedeperin.vercel.app/es/characters?search=Weasley'
+         'https://potterapi-fedeperin.vercel.app/es/characters?search=Weasley'
       );
   
     const data = await response.json();
