@@ -12,7 +12,7 @@ const App =() => {
 }
 }
 
-function DApp() {
+function App() {
   const [count, setCount] = useState(0)
   return (
     <>
